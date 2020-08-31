@@ -1,4 +1,15 @@
 
+## To run program with sample input
+```python3
+cd inventory-allocator
+python3 src/inventory_allocator.py
+```
+
+## To run all tests (using PyTest)
+```bash
+cd inventory-allocator
+pytest -v
+```
 
 ## Problem
 
